@@ -23,8 +23,10 @@ An application to help you distribute time for all your work. While working as  
 3. Change timer sound for different timers. Select soundtrack at the time of setting the timer. 
 4. Setting and displaying of alarm messages.
 5. Save the state of your alarm/timer and get the state as soon as we restart the application i.e. the alarm/timer set must retain even if the application is stopped
-##USP :  What makes our project different ?
+
+## USP :  What makes our project different ?
 ~~HIDDEN~~
+
 __##GITHUB:__
 https://github.com/prajjwal-24/pacify
 
